@@ -1,3 +1,4 @@
+<p align="center" style='margin:20px'><img src="https://komarev.com/ghpvc/?username=Abdulrahman-Muhammad&label=Profile%20views&color=0e75b6&style=flat" alt="Abdulrahman-Muhammad" width='200'/> </p>
   ## About Me
   My name is Abdulrahman Muhammad. I am a Data Scientist with a Master's degree in AI and Data Science from uOttawa University.
 
