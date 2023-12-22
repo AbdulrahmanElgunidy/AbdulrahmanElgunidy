@@ -43,7 +43,7 @@
 
 
 - [Build One-vs-ALL and One-vs-One Based-On the Most Important Features](https://github.com/AbdulrahmanElgunidy/Machine-learning-OVR-vs-OVO-First_assignment)
-- [Classification models Using KNN - GussianNB Models and tuning many different parameters using Wine data set that exists in sklearn library]([https://github.com/Ahmed-Abdo-Amin/-Machine-learning-Classification-models-Second_assignment-main](https://github.com/AbdulrahmanElgunidy/Machine-learning-Classification-KNN-NAIVE-Second_assignment)
+- [Classification models Using KNN - GussianNB Models and tuning many different parameters using Wine data set that exists in sklearn library](https://github.com/AbdulrahmanElgunidy/Machine-learning-Classification-KNN-NAIVE-Second_assignment)
 
 
 	
