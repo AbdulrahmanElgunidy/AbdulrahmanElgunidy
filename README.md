@@ -43,13 +43,14 @@
 
 
 - [Build One-vs-ALL and One-vs-One Based-On the Most Important Features](https://github.com/AbdulrahmanElgunidy/Machine-learning-OVR-vs-OVO-First_assignment)
+- [Classification models Using KNN - GussianNB Models and tuning many different parameters using Wine data set that exists in sklearn library]([https://github.com/Ahmed-Abdo-Amin/-Machine-learning-Classification-models-Second_assignment-main](https://github.com/AbdulrahmanElgunidy/Machine-learning-Classification-KNN-NAIVE-Second_assignment)
+
 
 	
 - [Network Intrusion Detection using Deep Learning](https://github.com/Ahmed-Abdo-Amin/Machine_learning_Project_Detect_anomalies_using_Deep_learning-main) | Detect anomalies using Deep learning Using tuning many different hyper parameters like (learning rate, hidden layer, activation function, batch size) and do grid
 search to select the best hyper parameters and do dimensionality reduction and feature selection then plot Tsne.
 - [Machine Learning Bagging and Boosting Models](https://github.com/Ahmed-Abdo-Amin/Machine-learning-Bagging-and-Boosting-models-Fourth_assignment-main)
 - [Machine Learning Clustering Models](https://github.com/Ahmed-Abdo-Amin/Machine-learning-Clustering-models-Third_assignment-main)
-- [Machine Learning Classification Models](https://github.com/Ahmed-Abdo-Amin/-Machine-learning-Classification-models-Second_assignment-main)
 - [Machine learning approach to identify fake tasks](https://github.com/Ahmed-Abdo-Amin/machine-learning-ML-approaches-to-identify-fake-tasks-main)
 - [Time Series Anomaly Detection](https://github.com/Ahmed-Abdo-Amin/Time_Series_Anomaly_Detection-main)
 - [A Fake Task Filtering Security Layer using CGAN (Conditional GAN)](https://github.com/Ahmed-Abdo-Amin/A-Fake-Task-Filtering-Security-Layer-using-CGAN-Conditional-GAN) | Data generation using GANs, and use the discriminator as a classifier to detect suspicious and fake data.
