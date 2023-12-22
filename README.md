@@ -42,7 +42,7 @@
 <h3> Machine Learning (ML):</h3>
 
 
-- [Build One-vs-ALL and One-vs-One Based-On the Most Important Features](https://github.com/Ahmed-Abdo-Amin/Machine-learning-OVR-vs-OVO-First_assignment-main](https://github.com/AbdulrahmanElgunidy/Machine-learning-OVR-vs-OVO-First_assignment)
+- [Build One-vs-ALL and One-vs-One Based-On the Most Important Features](https://github.com/AbdulrahmanElgunidy/Machine-learning-OVR-vs-OVO-First_assignment)
 
 	
 - [Network Intrusion Detection using Deep Learning](https://github.com/Ahmed-Abdo-Amin/Machine_learning_Project_Detect_anomalies_using_Deep_learning-main) | Detect anomalies using Deep learning Using tuning many different hyper parameters like (learning rate, hidden layer, activation function, batch size) and do grid
