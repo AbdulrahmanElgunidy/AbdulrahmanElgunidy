@@ -29,10 +29,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdulrahmanelgunidy&" alt="abdulrahmanelgunidy" /></p>
 
-
-<br />
-<br />
 # Projects
+
 <!------------------------------------Projects-------------------------------------------->
 
 <h3> Graduation Projects </h3>
