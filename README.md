@@ -50,20 +50,6 @@
 
 
 
-	
-- [Network Intrusion Detection using Deep Learning](https://github.com/Ahmed-Abdo-Amin/Machine_learning_Project_Detect_anomalies_using_Deep_learning-main) | Detect anomalies using Deep learning Using tuning many different hyper parameters like (learning rate, hidden layer, activation function, batch size) and do grid
-search to select the best hyper parameters and do dimensionality reduction and feature selection then plot Tsne.
-- [Machine Learning Bagging and Boosting Models](https://github.com/Ahmed-Abdo-Amin/Machine-learning-Bagging-and-Boosting-models-Fourth_assignment-main)
-- [Machine Learning Clustering Models](https://github.com/Ahmed-Abdo-Amin/Machine-learning-Clustering-models-Third_assignment-main)
-- [Machine learning approach to identify fake tasks](https://github.com/Ahmed-Abdo-Amin/machine-learning-ML-approaches-to-identify-fake-tasks-main)
-- [Time Series Anomaly Detection](https://github.com/Ahmed-Abdo-Amin/Time_Series_Anomaly_Detection-main)
-- [A Fake Task Filtering Security Layer using CGAN (Conditional GAN)](https://github.com/Ahmed-Abdo-Amin/A-Fake-Task-Filtering-Security-Layer-using-CGAN-Conditional-GAN) | Data generation using GANs, and use the discriminator as a classifier to detect suspicious and fake data.
-- [Detecting malicious Website Using its URL](https://github.com/Ahmed-Abdo-Amin/DetectingmaliciousWebsiteUsingitsURL1) | We use machine learning and deep learning models such as random forest, extra tree, Adaboost, Gaussian Naive Bayes, and CNN-BiLSTM on the dataset, which contains 651,191 URLs.
-- [Predicting data exfiltration via DNS](https://github.com/Ahmed-Abdo-Amin/PredictingdataexfiltrationviaDNS)
-- [Prediction using Supervised ML](https://github.com/Ahmed-Abdo-Amin/-Internship_Spark_Foundation/blob/main/DataScience%26BusinessAnalyticsTasks/Task1-Prediction-using-SupervisedML) | Predict the percentage of an student based on the no. of study hours.
-- [Prediction using Unsupervised ML](https://www.linkedin.com/posts/ahmed-abdo-amin-abdo-b17193213_task2-gripmarch23-thesparksfoundation-activity-7040025445966176256-l8VT?utm_source=share&utm_medium=member_desktop) | From the given ‘Iris’ dataset, predict the optimum number of clusters and represent it visually.
-
-
 
 
 
