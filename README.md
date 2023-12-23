@@ -46,7 +46,7 @@
 - [Classification models Using KNN - GussianNB Models and tuning many different parameters using Wine data set](https://github.com/AbdulrahmanElgunidy/Machine-learning-Classification-KNN-NAIVE-Second_assignment)
 - [Machine Learning Clustering Models](https://github.com/AbdulrahmanElgunidy/Machine-learning-Clustering-models-Third_assignment/tree/main)
 - [Machine Learning Bagging and Boosting Models](https://github.com/AbdulrahmanElgunidy/Machine-learning-Bagging-and-Boosting-models-Fourth_assignment/tree/main)
-- [Machine Learning Project Network Intrusion Detection using Deep Learning (https://github.com/AbdulrahmanElgunidy/Machine_learning_Project_Detect_anomalies_using_Deep_learning/tree/main)
+- [Machine Learning Project Network Intrusion Detection using Deep Learning](https://github.com/AbdulrahmanElgunidy/Machine_learning_Project_Detect_anomalies_using_Deep_learning/tree/main)
 - [Intrusion-Detection-over-Kafka-stream](https://github.com/AbdulrahmanElgunidy/Intrusion-Detection-over-Kafka-stream)
 
 
