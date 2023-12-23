@@ -33,7 +33,7 @@
 
 <!------------------------------------Projects-------------------------------------------->
 
-<h3> Graduation Projects </h3>
+<h3> Graduation Project </h3>
 
 - uOttawa:
 [5g optimization and analysis using AI ](https://github.com/AbdulrahmanElgunidy/5G-Network-Optimization-and-Analysis-using-AI)
@@ -48,6 +48,19 @@
 - [Machine Learning Bagging and Boosting Models](https://github.com/AbdulrahmanElgunidy/Machine-learning-Bagging-and-Boosting-models-Fourth_assignment/tree/main)
 - [Machine Learning Project Network Intrusion Detection using Deep Learning](https://github.com/AbdulrahmanElgunidy/Machine_learning_Project_Detect_anomalies_using_Deep_learning/tree/main)
 - [Intrusion-Detection-over-Kafka-stream](https://github.com/AbdulrahmanElgunidy/Intrusion-Detection-over-Kafka-stream)
+- [Kaggle-competition](https://www.kaggle.com/competitions/assignment-2-binary-classifier/leaderboard)
+
+  
+<h3> Computer Vision (CV):</h3>
+	
+- [Sports Products Multi-Class Classification](https://github.com/AbdulrahmanElgunidy/SportsProductsMulti-ClassClassification) | Using ResNet, VGG, and AlexNet Models to classify the different types of sports or their equipment.
+- [Malware-classification-using-Malimg-dataset](https://github.com/AbdulrahmanElgunidy/Malware-classification-using-Malimg-dataset)
+- [MetaLearning-Few-shot-learning](https://github.com/AbdulrahmanElgunidy/MetaLearning-Few-shot-learning-on-IBM-CLOUD-)
+- [Applying Machine Learning Models To Image Classification (the Cifar10 dataset)](https://github.com/AbdulrahmanElgunidy/Applying-Machine-Learning-Models-To-Image-Classification)
+- [Applying Deep Learning Models to Image Classification (Caltech-UCSD Birds-200-2011)](https://github.com/AbdulrahmanElgunidy/Applying-Deep-Learning-Models-to-Image-Classification)
+- [Applying Regularization and Data Augmentation on CNN Model to Image Classification (Leaf counting dataset)](https://github.com/AbdulrahmanElgunidy/Applying-Regularization-and-Data-Augmentation-on-CNN-Model-to-Image-Classification)
+
+  
 
 
 
