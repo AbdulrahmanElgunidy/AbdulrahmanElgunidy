@@ -59,6 +59,7 @@
 - [Applying Machine Learning Models To Image Classification (the Cifar10 dataset)](https://github.com/AbdulrahmanElgunidy/Applying-Machine-Learning-Models-To-Image-Classification)
 - [Applying Deep Learning Models to Image Classification (Caltech-UCSD Birds-200-2011)](https://github.com/AbdulrahmanElgunidy/Applying-Deep-Learning-Models-to-Image-Classification)
 - [Applying Regularization and Data Augmentation on CNN Model to Image Classification (Leaf counting dataset)](https://github.com/AbdulrahmanElgunidy/Applying-Regularization-and-Data-Augmentation-on-CNN-Model-to-Image-Classification)
+- [practice-deep-learning-facerecognition tutorial for learning](https://github.com/AbdulrahmanElgunidy/practice-deep-learning-facerecognition)
 
 <h3> Natural Language Processing (NLP):</h3>
   
