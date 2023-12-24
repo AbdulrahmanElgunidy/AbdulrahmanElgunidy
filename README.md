@@ -62,8 +62,8 @@
 
   <h3> Natural Language Processing (NLP):</h3>
   
--[recommend food review](https://github.com/AbdulrahmanElgunidy/NLP/tree/main/recomed%20food%20review)
--[chatbot depression awarness](https://github.com/AbdulrahmanElgunidy/NLP/tree/main/chatbot%20depression%20awarness)
+- [recommend food review](https://github.com/AbdulrahmanElgunidy/NLP/tree/main/recomed%20food%20review)
+- [chatbot depression awarness](https://github.com/AbdulrahmanElgunidy/NLP/tree/main/chatbot%20depression%20awarness)
 - [Gutenberg Book Classification (Classification-Is-All-You-Need)](https://github.com/AbdulrahmanElgunidy/NLP/tree/main/Text_classification) | Predict the author or the name of the book given some text, using classification and clustering techniques.
 - [Gutenberg Book Clustering (Clustering-Is-All-You-Need)](https://github.com/AbdulrahmanElgunidy/NLP/tree/main/clustering)
 - [Literature review("Task-Aware Representation of Sentences for Generic Text Classification")](https://github.com/AbdulrahmanElgunidy/NLP/tree/main/Literature%20Review)
