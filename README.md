@@ -1,5 +1,4 @@
-<p align="center" style='margin:20px'><img src="https://komarev.com/ghpvc/?username=Abdulrahman-Muhammad&label=Profile%20views&color=0e75b6&style=flat" alt="Abdulrahman-Muhammad" width='200'/> </p>
-  ## About Me
+<p align="center" style='margin:20px'><img src="https://komarev.com/ghpvc/?username=Abdulrahman-Muhammad&label=Profile%20views&color=0e75b6&style=flat" alt="Abdulrahman-Muhammad" width='200'/> </p>About Me
   My name is Abdulrahman Muhammad. I am a Data Scientist with a Master's degree in AI and Data Science from uOttawa University.
 
 <h1 align="center">Hi 👋, I'm Abdulrahman Muhammad</h1>
@@ -13,7 +12,7 @@
 
 - 📫 How to reach me **abdulrahman.maa05@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1uwdooQARg6sSLziKqilh6HFWZDC5i64a/view?usp=sharing](https://drive.google.com/file/d/1uwdooQARg6sSLziKqilh6HFWZDC5i64a/view?usp=sharing)
+- 📄 Know about my experiences [MY CV ](https://drive.google.com/file/d/1SnemsHqXxTj-eaY0CWKzVfm8WMk2XBFS/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
