@@ -42,7 +42,7 @@
 - [Kaggle-competition](https://www.kaggle.com/competitions/assignment-2-binary-classifier/leaderboard)
 
 
-<h3> Machine Learning operation (ML):</h3>
+<h3> Machine Learning operation (ML OPS):</h3>
 - [End-to-End-YOLO5-waste-detection-](https://github.com/AbdulrahmanElgunidy/End-to-End-YOLO5-waste-detection-)
 
   
