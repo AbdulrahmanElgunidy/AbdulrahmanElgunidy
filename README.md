@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Data Science,MachineLearning,Deep Learning,NLP**
 
-- 📫 How to reach me **abdulrahman.maa05@gmail.com**
+- 📫 How to reach me **abdulrahman.maa1995@gmail.com**
 
 - 📄 Know about my experiences [MY CV ](https://drive.google.com/file/d/1SnemsHqXxTj-eaY0CWKzVfm8WMk2XBFS/view?usp=sharing)
 
